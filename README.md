@@ -87,10 +87,11 @@ endmodule
  
 **Truthtable**
 
-![image](https://github.com/varshinidevaraju/study-of-basic-gates/assets/144870750/934c6650-3125-463f-8baf-5f76aac8a98d)
+![Uploading image.png…]()
 
 **RTL realization Output:** 
 
+![image](https://github.com/varshinidevaraju/study-of-basic-gates/assets/144870750/934c6650-3125-463f-8baf-5f76aac8a98d)
 
 **Waveform**
 
