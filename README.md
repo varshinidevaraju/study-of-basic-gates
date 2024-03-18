@@ -87,7 +87,7 @@ endmodule
  
 **Truthtable**
 
-![Uploading image.png…]()
+![image](https://github.com/varshinidevaraju/study-of-basic-gates/assets/144870750/4296d44f-05f2-4638-941a-f922a090a917)
 
 **RTL realization Output:** 
 
